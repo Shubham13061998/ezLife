@@ -1,2 +1,2 @@
-# ezlife
-ezlife project
+# ezLife
+Household Service Booking System
